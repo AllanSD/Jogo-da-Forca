@@ -1,5 +1,5 @@
 #Allan da Silva D´Avila RA 1130042 e Dennis Souza RA 1129521
-#Para visualisar o histórico, ao final do game digite (jogarNovamente) em seguida digite (s)
+#Para visualisar o histórico, ao final do game digite (jogarNovamente) em seguida digite (1)
 
 from funcoes import jogarNovamente, dicasJogo, testarPalavra, banco, historico
 import getpass
